@@ -6,6 +6,6 @@ int main()
   if(a>>z && A>>Z)
     printf("Alphabet");
    else
-    printf("Not Alphabet");
+    printf("No");
   return 0;
 }
